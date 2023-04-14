@@ -1,0 +1,5 @@
+com\example\Insurances\Controller\InsuranceController.class
+com\example\Insurances\Repository\InsuranceRepository.class
+com\example\Insurances\InsurancesApplication.class
+com\example\Insurances\Model\Customers.class
+com\example\Insurances\Model\Insurances.class
