@@ -1,0 +1,5 @@
+com\example\Cards\CardsApplication.class
+com\example\Cards\Model\Customers.class
+com\example\Cards\Repository\CardsRepository.class
+com\example\Cards\Controller\CardsController.class
+com\example\Cards\Model\Cards.class
